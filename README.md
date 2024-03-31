@@ -1,6 +1,6 @@
 # NLP
 Practica Final NLP
-# Proyecto Final de Bootcamp: Análisis de Sentimientos con NLP
+# Análisis de Sentimientos con NLP
 
 ## Descripción del Proyecto
 
